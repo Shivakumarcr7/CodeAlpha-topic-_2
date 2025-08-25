@@ -19,3 +19,6 @@ It takes user queries and returns the best matching answer from a knowledge base
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+## ​​ Run in Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shivakumarcr7/CodeAlpha-topic-_2/blob/main/faq_chatbot.ipynb)
